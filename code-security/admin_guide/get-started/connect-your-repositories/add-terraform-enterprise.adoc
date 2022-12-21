@@ -3,7 +3,7 @@
 [.task]
 == Add Terraform Enterprise (Sentinel)
 
-Integrate Prima Cloud with Terraform Enterprise (Sentinel) to enforce the policy as a code framework for Terraform workspaces that use https://www.terraform.io/cloud-docs/sentinel[Sentinel language] with a predefined https://www.terraform.io/cloud-docs/sentinel/manage-policies#enforcement-levels[enforcement level] that prevents any risky Terraform run. With the integration of Terraform Enterprise, Prisma Cloud will scan your Terraform frameworks for misconfiguration for Prisma Cloud default policies, out-of-the-box policies and custom policies.
+Integrate Prisma Cloud with Terraform Enterprise (Sentinel) to enforce the policy as a code framework for Terraform workspaces that use https://www.terraform.io/cloud-docs/sentinel[Sentinel language] with a predefined https://www.terraform.io/cloud-docs/sentinel/manage-policies#enforcement-levels[enforcement level] that prevents any risky Terraform run. With the integration of Terraform Enterprise, Prisma Cloud will scan your Terraform frameworks for misconfiguration for Prisma Cloud default policies, out-of-the-box policies and custom policies.
 
 Terraform Enterprise is a self-hosted version of Terraform Cloud deployed either on-premises or in your public cloud. While locally, Terraform requires a working directory to manage a collection of infrastructure resources using Terraform CLI, Terraform Enterprise manages multiple collections through https://www.terraform.io/cloud-docs/workspaces[workspaces].
 
