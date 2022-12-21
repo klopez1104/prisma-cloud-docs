@@ -1,0 +1,16 @@
+== Prisma Cloud Code Security Known Issues
+
+Review the list of known issues and deprecation notice for the Code Security capabilities on Prisma Cloud.
+
+The following table lists the known issues on Prisma Cloud for the Code Security capabilities. For deprecation notices or upcoming changes, see xref:look-ahead-planned-updates-prisma-cloud-code-security.adoc[Look Ahead - Planned Updates].
+
+[cols="23%a,77%a"]
+|===
+|Issue ID
+|Description
+
+|*PCSUP-13188*
+ 
+|The configuration build policies are displayed even if you have not enabled Code Security module.
+
+|===

@@ -141,6 +141,8 @@ topics:
       file: features-introduced-in-code-security-january-2022.adoc
   - name: Look Ahead—Planned Updates on Prisma Cloud Code Security
     file: look-ahead-planned-updates-prisma-cloud-code-security.adoc
+  - name: Prisma Cloud Code Security Known Issues
+    file: prisma-cloud-code-security-known-issues.adoc
 ---
 kind: chapter
 name: Prisma Cloud Microsegmentation Release Information
